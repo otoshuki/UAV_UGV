@@ -1,0 +1,6 @@
+//Guining Pertin - UAV UGV Control
+//WORK
+
+1. Pixhawk 1 and Rover firmware for control
+2. Installing QGround Control - https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html
+3.
