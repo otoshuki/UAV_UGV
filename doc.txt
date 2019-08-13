@@ -1,6 +1,11 @@
 //Guining Pertin - UAV UGV Control
 //WORK
 
+09-07-19
+
 1. Pixhawk 1 and Rover firmware for control
 2. Installing QGround Control - https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html
-3.
+3. Firmware update to ChibiOS - ArduRover 3.5.2
+4. Sensors and radio calibration
+
+11-07-19

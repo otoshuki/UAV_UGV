@@ -1,0 +1,2 @@
+my_pkg
+-DCATKIN_DEVEL_PREFIX=/home/otoshuki/Documents/PROJECTS/UGV_UAV/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/otoshuki/Documents/PROJECTS/UGV_UAV/catkin_ws/install -G Unix Makefiles
